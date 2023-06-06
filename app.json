@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "ziuQ",
+    "slug": "ziuQ",
+    "icon": "app/assets/icon.png",
+    "splash": {
+      "image": "app/assets/maze.png",
+      "backgroundColor": "#000000"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d2ad5d32-e169-4113-82d2-351c83e62cf6"
+      }
+    },
+    "android": {
+      "package": "com.trueghost.ziuQ"
+    },
+    "ios": {
+      "bundleIdentifier": "com.trueghost.ziuQ"
+    }
+  }
+}
